@@ -1,0 +1,8 @@
+(CH1 to Vsh and CH2 to Vdrain)
+t3v4: Vout = 4.018 [V]
+t3v7: Vout = 7.04 [V]
+t3v9: Vout = 9.00 [V]
+(CH1 to Vgdr and CH2 to Vgate)
+t4v4: Vout = 4.000 [V]
+t4v7: Vout = 7.00 [V]
+t4v9: Vout = 9.05 [V]
